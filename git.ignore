@@ -1,0 +1,2 @@
+#no storing of sensitive information
+*.tfvars
