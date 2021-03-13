@@ -12,7 +12,12 @@
      git add <file>
 
 6. How often should I commit
-7. What is a commit?
-8. What is a proper commit message?
-9. Can I have multiple commits on local?
-10. If you are not sure if your secrets are checked it what git command should I use
+
+Each change to the code
+
+8. What is a commit?
+
+Recording the changes to the 
+10. What is a proper commit message?
+11. Can I have multiple commits on local?
+12. If you are not sure if your secrets are checked it what git command should I use
