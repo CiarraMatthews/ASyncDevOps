@@ -1,7 +1,11 @@
 1. How to I set up an upstream
+
+
      git push --set-upstream <remote> <branch name>
 
 2. How do I send my local changes to git
+
+
      git push
 
 4. How do I add files to track
